@@ -1,4 +1,4 @@
-<h1>Hi, I'm Julian Negri, CISSP <br/>Engineer</a>, Cybersecurity Professional</a>, Programmer</a></h1>
+<h1>Hi, I'm Julian Negri, CISSP <br/>Engineer</a>, Cybersecurity Professional</a>, and Programmer</a></h1>
 
 
 <h2>PowerShell Scripting:</h2>
