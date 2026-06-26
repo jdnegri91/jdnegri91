@@ -1,6 +1,6 @@
 <h1>Hi, I'm Julian Negri, CISSP <br/>Engineer</a>, Cybersecurity Professional</a>, and Programmer</a></h1>
 
-
+<!--
 <h2>PowerShell Scripting:</h2>
 
 - <b>Script1</b>
@@ -31,7 +31,7 @@
 
 [linkedin]: https://www.linkedin.com/in/julian-negri/
 
-<!--
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
